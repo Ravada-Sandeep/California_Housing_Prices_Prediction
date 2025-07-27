@@ -26,8 +26,6 @@ This project walks through an end-to-end ML pipeline to:
 - Proximity to Ocean (Categorical)
 - Median House Value (Target)
 
-Dataset Source: [StatLib - California Housing](https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html)
-
 ---
 
 ##  Models Used
